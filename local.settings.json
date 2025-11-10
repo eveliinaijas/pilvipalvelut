@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AZURE_SEARCH_ENDPOINT": "<oma-search-endpoint>",
+    "AZURE_SEARCH_KEY": "<oma-search-key>",
+    "AZURE_SEARCH_INDEX": "<oma-index>",
+    "AZURE_OPENAI_ENDPOINT": "<oma-openai-endpoint>",
+    "AZURE_OPENAI_KEY": "<oma-openai-key>",
+    "AZURE_OPENAI_DEPLOYMENT": "<oma-deployment-nimi>"
+  }
+}
